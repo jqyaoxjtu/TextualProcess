@@ -1,0 +1,10 @@
+tqdm
+numpy
+jieba
+pandas
+gensim
+matplotlib
+Pillow
+scikit_learn
+zhconv
+wordcloud
